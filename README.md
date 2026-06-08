@@ -26,4 +26,4 @@ This profile includes work across multiple projects, papers, and designs.
 A universal disclaimer applies to all content published under this account.
 
 **Universal Disclaimer:**  
-[DISCLAIMER.md](https://github.com/pslay8/pslay8/blob/main/Disclaimer.md))
+[DISCLAIMER.md](https://github.com/pslay8/pslay8/blob/main/Disclaimer.md)
