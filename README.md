@@ -11,6 +11,13 @@ This GitHub profile serves as a publishing platform for educational material, ar
 
 ---
 
+## Featured Work
+
+- **[Enterprise-Trust Architecture](https://github.com/pslay8/Enterprise-Trust-Architecture)** — The core framework and the Trust Boundary Compass model: identity, device, network, workload, and data boundaries mapped across a full enterprise trust lifecycle.
+- **[Architecture Portfolio](https://github.com/pslay8/slayden-architecture-portfolio)** — Published white papers, reference architectures, and diagrams spanning identity, Zero Trust, and cloud security.
+
+---
+
 ## Legal & Professional Notes
 This profile includes work across multiple projects, papers, and designs.
 A universal disclaimer applies to all content published under this account.
