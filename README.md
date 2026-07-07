@@ -1,21 +1,57 @@
-# Patrick Slayden
+# Universal Disclaimer
 
-## Professional Overview
+*This disclaimer applies to all repositories, papers, diagrams, and other materials published under this GitHub account (pslay8), including Enterprise-Trust Architecture, the architecture portfolio, and any other project referencing this document.*
 
-Principal / Enterprise Trust Architect with 28 years of experience designing and guiding identity-centric security models across large, regulated enterprise environments. My work focuses on trust boundaries, Zero Trust alignment, and translating complex identity and security concepts into clear, actionable architectural patterns.
+## Vendor-Neutrality and Non-Endorsement Notice
 
-Creator of **Enterprise-Trust Architecture (ETA)** and the **Trust Boundary Compass (TBC)** — two vendor-neutral frameworks for understanding and communicating modern trust-boundary design.
+The technologies, platforms, and vendors referenced across this account's work (including but not limited to Microsoft Entra ID, Akamai, Cloudflare, Okta, Ping Identity, Zscaler, and others) are used solely as illustrative examples to explain architectural concepts in practical terms.
 
-Background includes multi-vendor instructor credentials (CCSI, MCT, CEI), a published U.S. patent (US 2026/0064453 A1), and modern certifications including the **CSA CCZT**, **GIAC Public Cloud Security**, **CISSP**, and **Microsoft Cybersecurity Architect Expert**.
+These references do not constitute endorsement, recommendation, sponsorship, partnership, affiliation, or approval of any vendor or product. All trademarks, service marks, and product names belong to their respective owners.
 
-This GitHub profile serves as a publishing platform for educational material, architectural models, and conceptual frameworks related to identity, trust, and enterprise security design.
+No vendor has reviewed, contributed to, or influenced this content. I am not compensated by, sponsored by, or acting on behalf of any vendor mentioned herein.
 
----
+## Organizational Independence Notice
 
-## Legal & Professional Notes
+The architectural models, metaphors, examples, diagrams, and interpretations presented across this account's repositories are entirely my own and provided for educational purposes.
 
-This profile includes work across multiple projects, papers, and designs.
-A universal disclaimer applies to all content published under this account.
+This work does not describe, reflect, represent, or imply the current, planned, future, or past architecture, strategy, design decisions, security posture, or technology roadmap of any organization I currently work for, have previously worked for, or may work for in the future.
 
-**Universal Disclaimer:**
-[DISCLAIMER.md](https://github.com/pslay8/pslay8/blob/main/Disclaimer.md)
+Any resemblance to real-world architectures - enterprise, vendor, customer, or government - is coincidental and results solely from the universal nature of identity-centric architecture patterns.
+
+## Conceptualization and Experience Notice
+
+The examples, scenarios, architectural patterns, and explanations in this work are informed by my professional experience in identity, security, and enterprise architecture. However, all content has been generalized, abstracted, fictionalized, or re-contextualized for educational purposes.
+
+Nothing in this work describes, reproduces, or reveals the actual architecture, configuration, security controls, operational practices, or implementation details of any organization I have worked for, currently work for, or may work for in the future.
+
+## Fictionalization Notice
+
+Some examples, diagrams, scenarios, or descriptions may resemble real technologies, vendors, or environments. These examples have been fictionalized or generalized to illustrate architectural principles. Any resemblance to actual systems or implementations is purely coincidental.
+
+## Intellectual Property and Originality Statement
+
+All architectural models, diagrams, metaphors, and explanations across this account's repositories are original creations unless explicitly cited. No proprietary, confidential, or NDA-protected information from any employer, client, or vendor has been used or referenced.
+
+## Personal Views Notice
+
+All opinions, interpretations, and architectural perspectives expressed across this account's work are my own and do not represent the views of any past, current, or future employer, vendor, or organization.
+
+## No Professional Advice
+
+This material is provided for educational and informational purposes only. It should not be interpreted as professional, legal, compliance, or security advice. Organizations should independently evaluate all technologies, architectures, and vendors based on their own requirements, risk posture, and regulatory obligations.
+
+## No Warranty
+
+All information, models, diagrams, and explanations across this account's repositories are provided without warranty of any kind, whether express or implied, including but not limited to warranties of accuracy, completeness, fitness for a particular purpose, or non-infringement.
+
+The author makes no guarantees regarding the applicability, performance, or suitability of any architecture or example described herein.
+
+## Limitation of Liability
+
+This work is provided "as is." Under no circumstances shall the author be liable for any direct, indirect, incidental, consequential, special, exemplary, or punitive damages arising out of or in connection with the use of, misuse of, reliance on, or inability to use the concepts, examples, or information contained in this work.
+
+This limitation applies to the fullest extent permitted by law.
+
+## Licensing
+
+Licensing terms vary by repository. See the individual repository's README or LICENSE file for the specific terms that apply to that project's content.
