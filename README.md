@@ -1,26 +1,13 @@
-# Patrick Slayden
+### Hi, I'm Patrick 👋
 
-## Professional Overview
-Principal / Enterprise-Trust Architect with 28 years of experience designing and guiding identity-centric security models across large, regulated enterprise environments. My work focuses on trust boundaries, Zero Trust alignment, and translating complex identity and security concepts into clear, actionable architectural patterns.
+Security architect with ~30 years across financial services, healthcare, education, and municipal IT — identity architecture, authentication assurance, PKI/certificate trust chains, and cloud security.
 
-Creator of **Enterprise-Trust Architecture (ETA)** and the **Trust Boundary Compass (TBC)** — two vendor-neutral frameworks for understanding and communicating modern trust-boundary design.
+**Background:**
+- Identity & Zero Trust architecture (Azure/Entra focus)
+- PKI and certificate trust chain design
+- Mainframe and enterprise security architecture
+- Long-time instructor — CISSP curriculum and adult technical training
 
-Background includes multi-vendor instructor credentials (CCSI, MCT, CEI), a published U.S. patent (US 2026/0064453 A1), and modern certifications including the **CSA CCZT**, **GIAC Public Cloud Security**, **CISSP**, and **Microsoft Cybersecurity Architect Expert**.
+**Certifications:** CISSP (since 2005) · Microsoft Cybersecurity Architect Expert (SC-100) · CCZT · CCSK · GIAC GCPN · CCNA · CEH/CHFI · ITIL Foundation
 
-This GitHub profile serves as a publishing platform for educational material, architectural models, and conceptual frameworks related to identity, trust, and enterprise security design.
-
----
-
-## Featured Work
-
-- **[Enterprise-Trust Architecture](https://github.com/pslay8/Enterprise-Trust-Architecture)** — The core framework and the Trust Boundary Compass model: identity, device, network, workload, and data boundaries mapped across a full enterprise trust lifecycle.
-- **[Architecture Portfolio](https://github.com/pslay8/slayden-architecture-portfolio)** — Published white papers, reference architectures, and diagrams spanning identity, Zero Trust, and cloud security.
-
----
-
-## Legal & Professional Notes
-This profile includes work across multiple projects, papers, and designs.
-A universal disclaimer applies to all content published under this account.
-
-**Universal Disclaimer:**
-[DISCLAIMER.md](https://github.com/pslay8/pslay8/blob/main/DISCLAIMER.md)
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/patrick-slayden)
